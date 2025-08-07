@@ -82,5 +82,8 @@ Mahin Alam
 📧 
 🧠 Made with Java, logic, and no shortcuts
 
+📜 License
+This project is open-source under the MIT License.
+
 
 
